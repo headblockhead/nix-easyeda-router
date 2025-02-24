@@ -1,6 +1,7 @@
 # nix-easyeda-router
 
-A nix flake to run the EasyEDA Router. Run using:
+A nix flake to run the EasyEDA Router.
+
 ```bash
-nix shell github:headblockhead/nix-easyeda-router -c easyeda-router
+nix run github:headblockhead/nix-easyeda-router
 ```
